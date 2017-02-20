@@ -1,0 +1,5 @@
+library(geonames)
+
+countryInfo <- GNcountryInfo()
+
+
